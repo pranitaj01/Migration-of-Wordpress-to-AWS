@@ -64,4 +64,37 @@ The procedure is divided into three steps:
   https://wordpress.org/plugins/all-in-one-wp-migration/
 - Other widely available resources/knowledge on the internet
 
+## Questions
+Q) Why I am not able to add/install plugin on WordPress.com?
+A) You cannot do it if you are using WordPress.com and you have a Free plan active on it, or your domain name look like - "pranita91.wordpress.com". 
+Solutions -
+  Refer below document to do the import/export without plugin. Howver, plugin use is recommended to import/export extensive web content.
+  ```
+  Migration-of-Wordpress-to-AWS/Wordpress project.docx 
+  ```
+OR
+  upgrade your WordPress.com plan to Business Plan (They offer refund too. Check WordPress.com refund policies.
+  ```
+    https://en.support.wordpress.com/refunds/ 
+  ```
+OR
+  Use Wordpress.org account. Wordpress.org will not pose any restricitons on domain/plugins settings. 
+  ```
+  https://wordpress.org/download/
+  ```
+  You can also migrate your WordPress.com to WordPress.org for free
+  ```
+  https://www.elegantthemes.com/blog/resources/migrating-wordpress-com-to-wordpress-org-a-step-by-step-guide
+  ```
 
+Q) Why I cannot do any change to my domain settings. Why cannot I customize my name servers to direct my website to new host?
+A) If you have account with Free plan on WordPress.com, WordPress.com will only have access to your domain settings or name server settings. Hence, I upgraded my plan to Personal, thereby allowing me to change Name Server settings.
+OR
+Use Wordpress.org account. Wordpress.org will not pose any restricitons on domain/plugins settings. 
+```
+https://wordpress.org/download/
+```
+You can also migrate your WordPress.com to WordPress.org for free
+```
+https://www.elegantthemes.com/blog/resources/migrating-wordpress-com-to-wordpress-org-a-step-by-step-guide
+```
