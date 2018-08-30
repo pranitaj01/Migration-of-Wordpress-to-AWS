@@ -53,7 +53,21 @@ The procedure is divided into three steps:
 ```
  Migration-of-Wordpress-to-AWS/Wordpress project.docx 
 ```
- 
+
+### Project Costs
+- Total cost of this project: $0.51.
+
+- If using WordPress.com, a Free plan will not allow to do domain/plugins settings. Check other updgrades here:
+```
+ https://en.support.wordpress.com/plan-features/ 
+```
+Hence WordPress.org is recommended.
+
+- In AWS free tier check pricing for hosted zone
+```
+ https://aws.amazon.com/route53/pricing/ 
+```
+
 ## References
 - https://aws.amazon.com/getting-started/tutorials/launch-a-WordPress-website/
 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
